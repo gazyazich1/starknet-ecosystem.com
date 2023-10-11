@@ -3171,4 +3171,23 @@ export const allProjects: Array<Project> = [
     isLive: false,
     isTestnetLive: true,
   },
+  {
+    id: "351fd9b8-6820-11ee-8c99-0242ac120002",
+    name: "Metaverse Post",
+    shortName: "MPost.io",
+    description:
+      "The fastest-growing media about Web3 & AI with a prediction market integrated inside!",
+    tags: ["Socialfi", "media", "Digital ID"],
+    image: "https://ibb.co/4jChnWH",
+    network: {
+      website: "https://mpost.io",
+      github: "",
+      twitter: "https://twitter.com/mpost_io",
+      medium: "",
+      discord: "https://discord.gg/HSCrx63Kct",
+      telegram: "https://t.me/mpost_io",
+    },
+    isLive: false,
+    isTestnetLive: true,
+  },
 ];
